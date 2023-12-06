@@ -24,9 +24,9 @@ Deep-inference Sequent Calculi for Propositional Team-based Logics.
 Further Remarks on the Dual Negation.
 : [Slides](files/Remark_on_dual_negation.pdf)
 
-Modal Inclusion Logic and its Variants.
-: With Matilda Häggblom and Fan Yang.
-: [Matilda's MSc thesis (contains preliminary versions of our results)](https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949)
+Axiomatizing Modal Inclusion Logic and its Variants.
+: With Matilda Häggblom and Fan Yang. *Submitted*.
+: [Paper](https://arxiv.org/abs/2312.02285)
 
 State-based Modal Logics for Free Choice.
 : With Maria Aloni and Fan Yang. *Submitted*.
