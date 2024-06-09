@@ -37,6 +37,7 @@ Teaching & Supervision
 
 ### Teaching assistant
 
+* Axiomatic Set Theory, 2024, University of Amsterdam
 * Finite Model Theory, 2022, University of Helsinki
 * Dependence Logic, 2021, University of Helsinki
 * *Sarjat* (series), 2021, University of Helsinki
