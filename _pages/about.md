@@ -21,15 +21,17 @@ Deep-inference Sequent Calculi for Propositional Team-based Logics.
 : With Rosalie Iemhoff and Fan Yang.
 : [Slides](files/Deep_inference_sequent_calculi_for_propositional_team_logics.pdf)
 
-Further Remarks on the Dual Negation.
+Further Remarks on the Dual Negation in Team Logics.
 : [Slides](files/Remark_on_dual_negation.pdf)
 
 Axiomatizing Modal Inclusion Logic and its Variants.
-: With Matilda Häggblom and Fan Yang. *Submitted*.
+: With Matilda Häggblom and Fan Yang.
+: *Submitted*.
 : [Paper](https://arxiv.org/abs/2312.02285)
 
 State-based Modal Logics for Free Choice.
-: With Maria Aloni and Fan Yang. *Submitted*.
+: With Maria Aloni and Fan Yang.
+: *Notre Dame Journal of Formal Logic (forthcoming)*.
 : [Paper](https://arxiv.org/abs/2305.11777) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slides](files/Axiomatization_of_BSML.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[My MSc thesis (contains some results not in the paper)](https://msclogic.illc.uva.nl/theses/archive/publication/4941/The-Logic-of-Free-Choice-Axiomatizations-of-State-based-Modal-Logics)
 
 Teaching & Supervision
