@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD candidate in logic at the [ILLC](https://www.illc.uva.nl/), University of Amsterdam (since November 2023; before that I was at the [Helsinki Logic Group](https://wiki.helsinki.fi/display/Logic/Home)). My supervisors are [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Maria Aloni](https://www.marialoni.org/). I am part of the [NihiL](https://projects.illc.uva.nl/nihil/) project at the ILLC. My research focuses on team semantics and team-based logics such as [dependence logic](https://plato.stanford.edu/entries/logic-dependence/).
+Hi! I am a PhD candidate in logic at the [ILLC](https://www.illc.uva.nl/), University of Amsterdam (since November 2023; before that I was at the [Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/)). My supervisors are [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Maria Aloni](https://www.marialoni.org/). I am part of the [NihiL](https://projects.illc.uva.nl/nihil/) project at the ILLC. My research focuses on team semantics and team-based logics such as [dependence logic](https://plato.stanford.edu/entries/logic-dependence/).
 
 Research
 ------
