@@ -6,3 +6,7 @@ Gemfile.lock
 .jekyll-cache
 git-update.sh
 previous/
+README.md
+README_de.md
+README_zh_Hans.md
+README_zh_Hant.md
