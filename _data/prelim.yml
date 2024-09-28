@@ -8,6 +8,7 @@ main:
     #arXiv: https://arxiv.org/abs/2305.11777
     #web: https://arxiv.org/abs/2305.11777
     slides: assets/files/Remark_on_dual_negation.pdf
+    web: assets/files/Remark_on_dual_negation.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/neg.jpg
     #notes: Forthcoming
@@ -20,6 +21,7 @@ main:
     #arXiv: https://arxiv.org/abs/2305.11777
     #web: https://arxiv.org/abs/2305.11777
     slides: assets/files/Convexity.pdf
+    web: assets/files/Convexity.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/icecream.png
     #notes: Forthcoming
@@ -32,6 +34,7 @@ main:
     #arXiv: https://arxiv.org/abs/2305.11777
     #web: https://arxiv.org/abs/2305.11777
     slides: assets/files/Deep_inference.pdf
+    web: assets/files/Deep_inference.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/dive.png
     #notes: Forthcoming
