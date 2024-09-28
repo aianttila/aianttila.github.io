@@ -66,7 +66,7 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
 <li> 2022: <a href="https://studies.helsinki.fi/courses/course-unit/otm-b46220b1-179e-4ab7-8752-c702e57c29c4">Finite Model Theory</a> (University of Helsinki; main instructor: Juha Kontinen)</li>
 <li> 2021: <a href="https://studies.helsinki.fi/courses/course-unit/hy-CU-117629832-2020-08-01?cpId=hy-lv-71">Dependence Logic</a> (University of Helsinki; main instructor: Fan Yang)</li>
 <li> 2021: <a href="https://studies.helsinki.fi/courses/course-unit/otm-d9733070-f2eb-4797-92a7-4001fcf0fa97/MAT21002">Series</a> (University of Helsinki; main instructor: Mika Koskenoja)</li>
-<li> 2020: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/114730">Introduction to the Philosophy of Language</a> (University of Amsterdam, main instructor: Elsbeth Brouwer)</li>
+<li> 2020: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/114730">Introduction to the Philosophy of Language</a> (University of Amsterdam; main instructor: Elsbeth Brouwer)</li>
 </ul> 
 <h3 id="ta" >Supervision</h3>
  <ul >
