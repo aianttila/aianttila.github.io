@@ -70,6 +70,6 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
 </ul> 
 <h3 id="ta" >Supervision</h3>
  <ul >
-<li> 2022: Matilda Häggblom, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949">Axiomatizing Modal Inclusion Logic</a> (MSc Thesis, University of Helsinki)</li>
+<li> 2022: <a href="https://sites.google.com/view/matildahaggblom/">Matilda Häggblom</a>, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949">Axiomatizing Modal Inclusion Logic</a> (MSc Thesis, University of Helsinki)</li>
  </ul>
 </details>
