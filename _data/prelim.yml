@@ -4,11 +4,11 @@ main:
     authors: Aleksi Anttila
     #conference_short: NDJFL
     #conference: Notre Dame Journal of Formal Logic
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/abs/2410.07067
     #arXiv: https://arxiv.org/abs/2305.11777
     #web: https://arxiv.org/abs/2305.11777
-    slides: assets/files/Remark_on_dual_negation.pdf
-    web: assets/files/Remark_on_dual_negation.pdf
+    #slides: assets/files/Remark_on_dual_negation.pdf
+    web: https://arxiv.org/abs/2410.07067
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/neg.jpg
     #notes: Forthcoming
