@@ -25,7 +25,7 @@ logic](https://plato.stanford.edu/entries/logic-dependence/).
 <details>
  <summary>Talks</summary>
  <ul><li> 2024.10.16: Workshop on the Occasion of Marco Degano’s PhD Defense,University of Amsterdam <i>Convex Team Logics</i> (joint talk with Søren Knudstorp) </li>
- <ul><li> 2024.03.30: The 4th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>Further Remarks on the Dual Negation in Team Semantics</i> </li>
+ <li> 2024.03.30: The 4th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>Further Remarks on the Dual Negation in Team Semantics</i> </li>
  <li> 2024.03.30: The 4th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>How to Split a Relation</i> (joint talk with Marco Degano, Tomasz Klochowicz and Søren Knudstorp) </li>
  <li> 2024.03.12: Dagstuhl Seminar 24111, Logics for Dependence and Independence: Expressivity and Complexity <code>&#8212;</code> <i>Deep Inference Sequent Calculi for Propositional Logics with Team Semantics</i> </li>
 <li> 2024.02.23: InqML workshop, University of Padova <code>&#8212;</code> <i>State-based Modal Logics for Free Choice </i> </li>
