@@ -4,10 +4,14 @@ main:
     authors: Maria Aloni, Aleksi Anttila, and Fan Yang
     conference_short: NDJFL
     conference: Notre Dame Journal of Formal Logic
+    issue: 65
+    number: 4
+    pages: 367-413
+    year: 2024
     paper: https://doi.org/10.1215/00294527-2024-0027
     arXiv: https://arxiv.org/abs/2305.11777
     web: https://doi.org/10.1215/00294527-2024-0027
     slides: assets/files/Axiomatization_of_BSML.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/coffee.png
-    notes: Advance Publication
+    #notes: 

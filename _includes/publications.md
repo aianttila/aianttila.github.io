@@ -1,5 +1,5 @@
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Research</h2>-->
-<h3 id="forthcoming" style="margin: 2px 0px -15px;">Forthcoming</h3>
+<h3 id="forthcoming" style="margin: 2px 0px -15px;">Publications</h3>
 
 <div class="publications">
 <ol class="bibliography">
@@ -19,7 +19,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.web }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="periodical"><em>{{ link.conference }}</em>, {{ link.issue }}({{ link.number }}): {{ link.pages }} {{ link.year }}
       </div>
     <div class="links">
       {% if link.paper %} 
