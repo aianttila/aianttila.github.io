@@ -1,5 +1,17 @@
 main:
 
+  - title: Axiomatizing Modal Inclusion Logic and its Variants
+    authors: Aleksi Anttila, Matilda Häggblom, and Fan Yang
+    conference_short: AML
+    conference: Archive for Mathematical Logic
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    arXiv: https://arxiv.org/abs/2312.02285
+    web: https://arxiv.org/abs/2312.02285
+    #slides: assets/files/Axiomatization_of_BSML.pdf
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/inc.png
+    notes: Forthcoming
+
   - title: State-based Modal Logics for Free Choice
     authors: Maria Aloni, Aleksi Anttila, and Fan Yang
     conference_short: NDJFL

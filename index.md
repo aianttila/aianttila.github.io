@@ -16,8 +16,6 @@ logic](https://plato.stanford.edu/entries/logic-dependence/).
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/submitted.md %}
-
 {% include_relative _includes/prelim.md %}
 
 </details>
