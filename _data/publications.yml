@@ -9,8 +9,10 @@ main:
     web: https://arxiv.org/abs/2312.02285
     #slides: assets/files/Axiomatization_of_BSML.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
+    paper: https://doi.org/10.1007/s00153-024-00957-y
+    year: 2025
     image: ./assets/img/inc.png
-    notes: Forthcoming
+    #notes: Forthcoming
 
   - title: State-based Modal Logics for Free Choice
     authors: Maria Aloni, Aleksi Anttila, and Fan Yang
