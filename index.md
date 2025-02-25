@@ -22,11 +22,13 @@ logic](https://plato.stanford.edu/entries/logic-dependence/).
 
 <details>
  <summary>Talks</summary>
+ <ul><li> 2025.02.06: NihiL Midterm Reflection on AI Workshop <code>&#8212;</code> <i>The Logic of Nothingness</i> </li>
  <ul><li> 2024.10.16: Workshop on the Occasion of Marco Degano’s PhD Defense, University of Amsterdam <code>&#8212;</code> <i>Convex Team Logics</i> (joint talk with Søren Knudstorp) </li>
  <li> 2024.03.30: The 4th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>Further Remarks on the Dual Negation in Team Semantics</i> </li>
  <li> 2024.03.30: The 4th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>How to Split a Relation</i> (joint talk with Marco Degano, Tomasz Klochowicz and Søren Knudstorp) </li>
  <li> 2024.03.12: Dagstuhl Seminar 24111, Logics for Dependence and Independence: Expressivity and Complexity <code>&#8212;</code> <i>Deep Inference Sequent Calculi for Propositional Logics with Team Semantics</i> </li>
-<li> 2024.02.23: InqML workshop, University of Padova <code>&#8212;</code> <i>State-based Modal Logics for Free Choice </i> </li>
+<li> 2024.02.23: InqML Workshop, University of Padova <code>&#8212;</code> <i>State-based Modal Logics for Free Choice </i> </li>
+<li> 2024.02.02: The NihiL Workshop, University of Padova <code>&#8212;</code> <i>Bilateral State-based Modal Logic: Expressive Power and Axiomatizations </i> </li>
 <li> 2024.01.25: The Utrecht Logic in Progress Series, Utrecht University <code>&#8212;</code> <i>Propositional and Modal Team Semantics: the Failure of Downward Closure</i> </li>
 <li> 2023.10.18: University of Helsinki logic seminar <code>&#8212;</code> <i>Convexity in Propositional Team Semantics</i> </li>
 <li> 2023.10.04: PhDs in Logic, University of Granada <code>&#8212;</code> <i>Deep Inference Sequent Calculi for Team-based Logics</i> </li>
@@ -69,6 +71,7 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
 </ul> 
 <h3 id="ta" >Supervision</h3>
  <ul >
+<li> 2024: Master of Logic individual project in Dependence Logic</li>
 <li> 2022: <a href="https://sites.google.com/view/matildahaggblom/">Matilda Häggblom</a>, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949">Axiomatizing Modal Inclusion Logic</a> (MSc Thesis, University of Helsinki)</li>
  </ul>
 </details>
