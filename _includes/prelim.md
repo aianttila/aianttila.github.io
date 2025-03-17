@@ -1,5 +1,5 @@
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Research</h2>-->
-<h3 id="Ongoing projects" style="margin: 2px 0px -15px;">Ongoing projects</h3>
+<h3 id="Ongoing projects" style="margin: 2px 0px -15px;">Ongoing</h3>
 
 <div class="publications">
 <ol class="bibliography">

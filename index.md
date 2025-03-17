@@ -12,7 +12,7 @@ focuses on team semantics and team-based logics such as [dependence
 logic](https://plato.stanford.edu/entries/logic-dependence/).
 
 <details>
- <summary>Research</summary>
+ <summary>Projects</summary>
 
 {% include_relative _includes/publications.md %}
 

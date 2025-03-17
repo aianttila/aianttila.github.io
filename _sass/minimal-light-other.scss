@@ -432,9 +432,9 @@ header ul a strong {
 }
 
 section {
-  width:650px;
-  float:right;
+  width:900px;
   padding-top:4.0em;
+  padding-left:15.0em;
   padding-bottom:50px;
 }
 
@@ -458,7 +458,22 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 960px) {
+
+@media (min-width: 1300px) {
+  body {
+  padding-right:20em;
+  }
+  header {
+  width:200px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+  padding-top:4.0em;
+  text-align:center
+}
+}
+
+@media print, screen and (max-width: 1300px) {
 
   .pub-row {
   display: flex; 

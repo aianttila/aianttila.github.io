@@ -23,7 +23,7 @@ main:
     slides: assets/files/Convexity.pdf
     web: assets/files/Convexity.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/icecream.png
+    image: ./assets/img/convex.png
     #notes: Forthcoming
     
   - title: Deep-inference Sequent Calculi for Propositional Team Logics
@@ -36,5 +36,5 @@ main:
     slides: assets/files/Deep_inference.pdf
     web: assets/files/Deep_inference.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/dive.png
+    image: ./assets/img/deep.png
     #notes: Forthcoming
