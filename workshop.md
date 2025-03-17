@@ -21,7 +21,7 @@ Details for Aleksi Anttila's PhD defence (1 April 2025) can be found [here](http
 |14:15 - 15:00|Simone Conti (Padua)|<i>Connecting State-based and Team-based Inquisitive Logic </i>
 |15:00 - 15:45|Haoyu Wang (Peking)|
 |15:45 - 16:00|Break|
-|16:00 - 16:45|Ivano Ciardelli (Padua)|<i>Supervenience in Inquisitive Modal Logic </i>
+|16:00 - 16:45|Ivano Ciardelli (Padua)|<i>Global Supervenience in Inquisitive Modal Logic </i>
 
 <h1> Location </h1>
 Bushuis Room F1.01B
