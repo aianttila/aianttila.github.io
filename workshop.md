@@ -19,7 +19,7 @@ Details for Aleksi Anttila's PhD defence (1 April 2025) can be found [here](http
 |12:00 - 12:45|Jouko Väänänen (Helsinki & Amsterdam)|<i>Dimension Theory for Team Properties </i>
 |12:45 - 14:15|Lunch break|
 |14:15 - 15:00|Simone Conti (Padua)|<i>Connecting State-based and Team-based Inquisitive Logic </i>
-|15:00 - 15:45|Haoyu Wang (Peking)|
+|15:00 - 15:45|Haoyu Wang (Peking)|<i>General Tensors: an Epistemic Point of View </i>
 |15:45 - 16:00|Break|
 |16:00 - 16:45|Ivano Ciardelli (Padua)|<i>Global Supervenience in Inquisitive Modal Logic </i>
 
