@@ -1,13 +1,15 @@
 main:
-
-  - title: Axiomatizing Modal Inclusion Logic and its Variants
-    authors: Aleksi Anttila, Matilda Häggblom, and Fan Yang
-    #conference_short: arXiv
+  
+  - title: Convex Team Logics
+    authors: Aleksi Anttila and Søren Knudstorp
+    #conference_short: NDJFL
     #conference: Notre Dame Journal of Formal Logic
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    arXiv: https://arxiv.org/abs/2312.02285
-    web: https://arxiv.org/abs/2312.02285
-    #slides: assets/files/Axiomatization_of_BSML.pdf
+    arXiv: https://arxiv.org/abs/2503.21850
+    #web: https://arxiv.org/abs/2305.11777
+    #slides: assets/files/Convexity.pdf
+    web: assets/files/Convexity.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/inc.png
+    image: ./assets/img/convex.png
     notes: Submitted
+

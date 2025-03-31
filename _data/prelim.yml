@@ -13,19 +13,6 @@ main:
     image: ./assets/img/neg.jpg
     #notes: Forthcoming
  
-  - title: Convex Propositional and Modal Team Logics
-    authors: Aleksi Anttila and Søren Knudstorp
-    #conference_short: NDJFL
-    #conference: Notre Dame Journal of Formal Logic
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #arXiv: https://arxiv.org/abs/2305.11777
-    #web: https://arxiv.org/abs/2305.11777
-    slides: assets/files/Convexity.pdf
-    web: assets/files/Convexity.pdf
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/convex.png
-    #notes: Forthcoming
-    
   - title: Deep-inference Sequent Calculi for Propositional Team Logics
     authors: Aleksi Anttila, Rosalie Iemhoff, and Fan Yang
     #conference_short: NDJFL
