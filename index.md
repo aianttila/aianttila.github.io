@@ -22,7 +22,9 @@ University of Amsterdam, under the supervision of [Fan Yang](https://sites.googl
 
 <details>
  <summary>Talks</summary>
- <ul><li> 2025.02.06: NihiL Midterm Reflection on AI Workshop <code>&#8212;</code> <i>The Logic of Nothingness</i> </li>
+ <ul><li> 2025.07.28: Informal Mini-Symposium on Team Semantics, TU Darmstadt <code>&#8212;</code> <i>Convex Team Logics</i> </li>
+ <li> 2025.03.31: <a href="https://aianttila.github.io/workshop">Workshop</a> on the Occasion of Aleksi Anttila’s PhD Defense, University of Amsterdam <code>&#8212;</code> <i>A Deep-inference Sequent Calculus for a Propositional Team Logic</i> </li>
+ <li> 2025.02.06: NihiL Midterm Reflection on AI Workshop <code>&#8212;</code> <i>The Logic of Nothingness</i> </li>
  <li> 2024.10.16: Workshop on the Occasion of Marco Degano’s PhD Defense, University of Amsterdam <code>&#8212;</code> <i>Convex Team Logics</i> (joint talk with Søren Knudstorp) </li>
  <li> 2024.03.30: The 4th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>Further Remarks on the Dual Negation in Team Semantics</i> </li>
  <li> 2024.03.30: The 4th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>How to Split a Relation</i> (joint talk with Marco Degano, Tomasz Klochowicz and Søren Knudstorp) </li>
@@ -49,6 +51,9 @@ University of Amsterdam, under the supervision of [Fan Yang](https://sites.googl
 <details>
  <summary>Degrees & Theses </summary>
  <ul> 
+<li> 2023-2025: PhD in Logic, ILLC, University of Amsterdam <br>
+(Transferred from University of Helsinki, where I was 2021-2023.)<br>
+Thesis: <a href="https://hdl.handle.net/11245.1/2fe80942-29ff-41a8-a584-3b6545d1fbd7">Not Nothing: Nonemptiness in Team Semantics</a><br>(<i>de facto</i> supervisors: Fan Yang and Maria Aloni; other official supervisors: Robert van Rooij and Jouko Väänänen)</li>
 <li> 2018-2021: MSc in Logic, ILLC, University of Amsterdam <br>
 Thesis: <a href="https://msclogic.illc.uva.nl/theses/archive/publication/4941/The-Logic-of-Free-Choice-Axiomatizations-of-State-based-Modal-Logics">The Logic of Free Choice — Axiomatizations of State-Based Modal Logics</a><br>(supervisors: Maria Aloni and Fan Yang)</li>
 <li> 2017-2018: MSc in Computer Science, University College London <br>
@@ -72,7 +77,7 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
 <h3 id="ta" >Supervision</h3>
  <ul >
 <li> 2025: MSc Thesis, University of Amsterdam: Lorenz Hornung, <a href="https://eprints.illc.uva.nl/id/eprint/2371/">Reasoning About Legal Concepts with Propositional Dependence Logic</a></li>
-<li> 2024: Master of Logic individual project in Dependence Logic</li>
+<li> 2024: Master of Logic individual project in Dependence Logic, University of Amsterdam</li>
 <li> 2022: MSc Thesis, University of Helsinki: <a href="https://sites.google.com/view/matildahaggblom/">Matilda Häggblom</a>, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949">Axiomatizing Modal Inclusion Logic</a></li>
  </ul>
 </details>
