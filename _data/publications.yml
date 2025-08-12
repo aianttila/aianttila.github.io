@@ -4,6 +4,8 @@ main:
     authors: Aleksi Anttila, Matilda Häggblom, and Fan Yang
     conference_short: AML
     conference: Archive for Mathematical Logic
+    issue: 64
+    pages: 755–793
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     arXiv: https://arxiv.org/abs/2312.02285
     web: https://arxiv.org/abs/2312.02285
