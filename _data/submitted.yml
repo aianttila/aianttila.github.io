@@ -1,5 +1,18 @@
 main:
   
+   - title: A Deep-Inference Sequent Calculus for Basic Propositional Team Logic (Without Delving Too Deep)
+    authors: Aleksi Anttila, Rosalie Iemhoff, and Fan Yang
+    #conference_short: NDJFL
+    #conference: Notre Dame Journal of Formal Logic
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    arXiv: https://arxiv.org/abs/2508.07509
+    web: https://arxiv.org/abs/2508.07509
+    #slides: assets/files/Deep_inference.pdf
+    #web: assets/files/Deep_inference.pdf
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/deep.png
+    #notes: Forthcoming
+
   - title: Convex Team Logics
     authors: Aleksi Anttila and Søren Knudstorp
     #conference_short: NDJFL
@@ -11,5 +24,4 @@ main:
     web: assets/files/Convexity.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/convex.png
-    notes: Submitted
-
+    #notes: Submitted
