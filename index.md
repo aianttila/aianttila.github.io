@@ -22,7 +22,7 @@ University of Amsterdam, under the supervision of [Fan Yang](https://sites.googl
 <details>
  <summary>Talks</summary>
  <ul><li> 2025.09.08: TbiLLC 2025: Fifteenth International Tbilisi Symposium on Logic, Language and Computation <code>&#8212;</code> <i>A Deep-Inference Sequent Calculus for a Propositional Team Logic</i> </li>
- <ul><li> 2025.07.28: Informal Mini-Symposium on Team Semantics, TU Darmstadt <code>&#8212;</code> <i>Convex Team Logics</i> </li>
+ <li> 2025.07.28: Informal Mini-Symposium on Team Semantics, TU Darmstadt <code>&#8212;</code> <i>Convex Team Logics</i> </li>
  <li> 2025.03.31: <a href="https://aianttila.github.io/workshop">Workshop</a> on the Occasion of Aleksi Anttila’s PhD Defense, University of Amsterdam <code>&#8212;</code> <i>A Deep-inference Sequent Calculus for a Propositional Team Logic</i> </li>
  <li> 2025.02.06: NihiL Midterm Reflection on AI Workshop <code>&#8212;</code> <i>The Logic of Nothingness</i> </li>
  <li> 2024.10.16: Workshop on the Occasion of Marco Degano’s PhD Defense, University of Amsterdam <code>&#8212;</code> <i>Convex Team Logics</i> (joint talk with Søren Knudstorp) </li>
