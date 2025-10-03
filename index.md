@@ -2,11 +2,10 @@
 layout: homepage
 ---
 
-Hi! I am a logician working on team semantics and team-based logics such as [dependence
+Hi! I am a postdoctoral researcher in logic at the [Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/) working on team semantics and team-based logics such as [dependence
 logic](https://plato.stanford.edu/entries/logic-dependence/). I recently graduated from the PhD programme in logic at the [ILLC](https://www.illc.uva.nl/),
 University of Amsterdam, under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and
-[Maria Aloni](https://www.marialoni.org/) (having transferred from the
-[Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/)). I am part of the
+[Maria Aloni](https://www.marialoni.org/). I am part of the
 [NihiL](https://projects.illc.uva.nl/nihil/) project at the ILLC.
 
 <details>
@@ -22,6 +21,7 @@ University of Amsterdam, under the supervision of [Fan Yang](https://sites.googl
 
 <details>
  <summary>Talks</summary>
+ <ul><li> 2025.09.08: TbiLLC 2025: Fifteenth International Tbilisi Symposium on Logic, Language and Computation <code>&#8212;</code> <i>A Deep-Inference Sequent Calculus for a Propositional Team Logic</i> </li>
  <ul><li> 2025.07.28: Informal Mini-Symposium on Team Semantics, TU Darmstadt <code>&#8212;</code> <i>Convex Team Logics</i> </li>
  <li> 2025.03.31: <a href="https://aianttila.github.io/workshop">Workshop</a> on the Occasion of Aleksi Anttila’s PhD Defense, University of Amsterdam <code>&#8212;</code> <i>A Deep-inference Sequent Calculus for a Propositional Team Logic</i> </li>
  <li> 2025.02.06: NihiL Midterm Reflection on AI Workshop <code>&#8212;</code> <i>The Logic of Nothingness</i> </li>
