@@ -21,7 +21,7 @@ main:
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     arXiv: https://arxiv.org/abs/2508.07509
     web: https://arxiv.org/abs/2508.07509
-    #slides: assets/files/Deep_inference.pdf
+    slides: assets/files/Deep_inference_sequent_calculi.pdf
     #web: assets/files/Deep_inference.pdf
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/deep.png
