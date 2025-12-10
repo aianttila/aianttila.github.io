@@ -21,8 +21,8 @@ University of Amsterdam, under the supervision of [Fan Yang](https://sites.googl
 
 <details>
  <summary>Talks</summary>
- <ul><li> 2025.10.29: University of Helsinki logic seminar <code>&#8212;</code> <i>Bicompleteness Theorems for Team Logics with the Dual
-Negation</i> </li>
+ <ul><li> 2025.12.10: University of Helsinki logic seminar <code>&#8212;</code> <i>Another Logic Complete for Convex ESO-Definable Team Properties</i> </li>
+ <li> 2025.10.29: University of Helsinki logic seminar <code>&#8212;</code> <i>Bicompleteness Theorems for Team Logics with the Dual Negation</i> </li>
  <li> 2025.09.08: TbiLLC 2025: Fifteenth International Tbilisi Symposium on Logic, Language and Computation <code>&#8212;</code> <i>A Deep-Inference Sequent Calculus for a Propositional Team Logic</i> </li>
  <li> 2025.07.28: Informal Mini-Symposium on Team Semantics, TU Darmstadt <code>&#8212;</code> <i>Convex Team Logics</i> </li>
  <li> 2025.03.31: <a href="https://aianttila.github.io/workshop">Workshop</a> on the Occasion of Aleksi Anttila’s PhD Defense, University of Amsterdam <code>&#8212;</code> <i>A Deep-inference Sequent Calculus for a Propositional Team Logic</i> </li>
