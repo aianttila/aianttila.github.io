@@ -15,8 +15,6 @@ logic](https://plato.stanford.edu/entries/logic-dependence/) and [inquisitive lo
 
 {% include_relative _includes/submitted.md %}
 
-
-
 </details>
 
 <details>
