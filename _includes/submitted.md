@@ -1,5 +1,5 @@
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Research</h2>-->
-<h3 id="submitted" style="margin: 2px 0px -15px;">Submitted</h3>
+<h3 id="submitted" style="margin: 2px 0px -15px;">Preprints</h3>
 
 <div class="publications">
 <ol class="bibliography">

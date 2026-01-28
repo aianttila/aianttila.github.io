@@ -2,20 +2,20 @@
 layout: homepage
 ---
 
-Hi! I am a postdoctoral researcher in logic at the [Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/) working on team semantics and team-based logics such as [dependence
-logic](https://plato.stanford.edu/entries/logic-dependence/). I recently graduated from the PhD programme in logic at the [ILLC](https://www.illc.uva.nl/),
+Hi! I am a postdoctoral researcher in logic at the University of Padua, working in the ERC project [Inquisitive Modal Logic](https://cordis.europa.eu/project/id/101116774), whose PI is [Ivano Ciardelli](https://www.ivanociardelli.altervista.org/). Before that, I was a postdoc at the [Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/), working under [Jouko Väänänen's](https://www.mv.helsinki.fi/home/jvaanane/) ERC project [Team semantics and dependence logic](https://www.mv.helsinki.fi/home/jvaanane/teamdep).  I got my PhD at the [ILLC](https://www.illc.uva.nl/),
 University of Amsterdam, under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and
-[Maria Aloni](https://www.marialoni.org/). I am part of the
-[NihiL](https://projects.illc.uva.nl/nihil/) project at the ILLC.
+[Maria Aloni](https://www.marialoni.org/), as part of the
+[NihiL](https://projects.illc.uva.nl/nihil/) project at the ILLC. I work on logics with team/state-based semantics such as [dependence
+logic](https://plato.stanford.edu/entries/logic-dependence/) and [inquisitive logic](https://link.springer.com/book/10.1007/978-3-031-09706-5).
 
 <details>
- <summary>Projects</summary>
-
-{% include_relative _includes/submitted.md %}
+ <summary>Publications</summary>
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/prelim.md %}
+{% include_relative _includes/submitted.md %}
+
+
 
 </details>
 
