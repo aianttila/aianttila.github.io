@@ -4,7 +4,7 @@ layout: homepage
 
 Hi! I am a postdoctoral researcher in logic at the University of Padua, working in the ERC project [Inquisitive Modal Logic](https://cordis.europa.eu/project/id/101116774), whose PI is [Ivano Ciardelli](https://www.ivanociardelli.altervista.org/).
 
-Before that, I was a postdoc at the [Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/), working under [Jouko Väänänen's](https://www.mv.helsinki.fi/home/jvaanane/) ERC project [Team Semantics and Dependence Logic](https://www.mv.helsinki.fi/home/jvaanane/teamdep) and his Research Council of Finland project [Teams and inner models](https://research.fi/en/results/funding/83150) .  I got my PhD at the [ILLC](https://www.illc.uva.nl/),
+Before that, I was a postdoc at the [Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home/), working under [Jouko Väänänen's](https://www.mv.helsinki.fi/home/jvaanane/) ERC project [Team Semantics and Dependence Logic](https://www.mv.helsinki.fi/home/jvaanane/teamdep) and his Research Council of Finland project [Teams and Inner Models](https://research.fi/en/results/funding/83150) .  I got my PhD at the [ILLC](https://www.illc.uva.nl/),
 University of Amsterdam, under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and
 [Maria Aloni](https://www.marialoni.org/), as part of the
 [NihiL](https://projects.illc.uva.nl/nihil/) project at the ILLC.
