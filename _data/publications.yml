@@ -3,7 +3,7 @@ main:
   - title: "Complexity Results in Team Semantics: Nonemptiness Is Not So Complex"
     authors: Aleksi Anttila, Juha Kontinen, and Fan Yang
     conference_short: FoIKS
-    conference: Proceedings of the 14th International Symposium on Foundations of Information and Knowledge Systems (FoIKS 2026).
+    conference: Proceedings of the 14th International Symposium on Foundations of Information and Knowledge Systems (FoIKS 2026)
     #pdf: https://arxiv.org/pdf/2306.00988.pdf
     arXiv: https://arxiv.org/abs/2510.08122
     web: https://arxiv.org/abs/2510.08122
