@@ -1,5 +1,19 @@
 main:
 
+    - title: "Complexity Results in Team Semantics: Nonemptiness Is Not So Complex"
+    authors: Aleksi Anttila, Juha Kontinen, and Fan Yang
+    conference_short: FoIKS
+    conference: Proceedings of the 14th International Symposium on Foundations of Information and Knowledge Systems (FoIKS 2026).
+    #pdf: https://arxiv.org/pdf/2306.00988.pdf
+    arXiv: https://arxiv.org/abs/2510.08122
+    web: https://arxiv.org/abs/2510.08122
+    year: 2026
+    #slides: assets/files/Deep_inference.pdf
+    #web: assets/files/Deep_inference.pdf
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/NE.png
+    notes: Forthcoming
+
   - title: Axiomatizing Modal Inclusion Logic and its Variants
     authors: Aleksi Anttila, Matilda Häggblom, and Fan Yang
     conference_short: AML
