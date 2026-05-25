@@ -24,7 +24,11 @@ logic](https://plato.stanford.edu/entries/logic-dependence/) and [inquisitive lo
 
 <details>
  <summary>Talks</summary>
- <ul><li> 2025.12.10: University of Helsinki logic seminar <code>&#8212;</code> <i>Another Logic Complete for Convex ESO-Definable Team Properties</i> </li>
+<ul><li> 2026.04.21: Workshop on Team Semantics, University of Helsinki <code>&#8212;</code> <i>Bisimulations and Expressive Completeness for Strict Inclusion Logics</i> </li>
+<li> 2026.04.16: China University of Political Science and Law logic seminar <code>&#8212;</code> <i>On the Mathematical Properties of Bilateral State-Based Modal Logic</i> </li>
+<li> 2026.04.05: The 5th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>(Bi)simulations for Strict Splits</i> (poster talk) </li>
+ <li> 2026.03.23: FoIKS 2026: 14th International Symposium on Foundations of Information and Knowledge Systems <code>&#8212;</code> <i>Complexity Results in Team Semantics: Nonemptiness Is Not So Complex</i> </li>
+ <li> 2025.12.10: University of Helsinki logic seminar <code>&#8212;</code> <i>Another Logic Complete for Convex ESO-Definable Team Properties</i> </li>
  <li> 2025.10.29: University of Helsinki logic seminar <code>&#8212;</code> <i>Bicompleteness Theorems for Team Logics with the Dual Negation</i> </li>
  <li> 2025.09.08: TbiLLC 2025: Fifteenth International Tbilisi Symposium on Logic, Language and Computation <code>&#8212;</code> <i>A Deep-Inference Sequent Calculus for a Propositional Team Logic</i> </li>
  <li> 2025.07.28: Informal Mini-Symposium on Team Semantics, TU Darmstadt <code>&#8212;</code> <i>Convex Team Logics</i> </li>
