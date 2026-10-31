@@ -26,7 +26,7 @@ main:
     image: ./assets/img/convex.png
     #notes: Submitted
 
-  - title: Further Remarks on the Dual Negation in Team Logics
+  - title: Bicompleteness Theorems for Team Logics with the Dual Negation
     authors: Aleksi Anttila
     #conference_short: NDJFL
     #conference: Notre Dame Journal of Formal Logic

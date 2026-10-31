@@ -24,10 +24,11 @@ logic](https://plato.stanford.edu/entries/logic-dependence/) and [inquisitive lo
 
 <details>
  <summary>Talks</summary>
-<ul><li> 2026.04.21: Workshop on Team Semantics, University of Helsinki <code>&#8212;</code> <i>Bisimulations and Expressive Completeness for Strict Inclusion Logics</i> </li>
+<ul><li> 2026.09.24: PhD Colloquium, Colloquium Logicum of the DVMLG, Julius Maximilian University of Würzburg <code>&#8212;</code> <i>Not Nothing: Nonemptiness in Team Semantics</i> </li>
+<li> 2026.04.21: Workshop on Team Semantics, University of Helsinki <code>&#8212;</code> <i>Bisimulations and Expressive Completeness for Strict Inclusion Logics</i> </li>
 <li> 2026.04.16: China University of Political Science and Law logic seminar <code>&#8212;</code> <i>On the Mathematical Properties of Bilateral State-Based Modal Logic</i> </li>
 <li> 2026.04.05: The 5th Tsinghua Interdisciplinary Workshop on Logic, Language, and Meaning, Tsinghua University <code>&#8212;</code> <i>(Bi)simulations for Strict Splits</i> (poster talk) </li>
- <li> 2026.03.23: FoIKS 2026: 14th International Symposium on Foundations of Information and Knowledge Systems <code>&#8212;</code> <i>Complexity Results in Team Semantics: Nonemptiness Is Not So Complex</i> </li>
+ <li> 2026.03.23: FoIKS 2026: 14th International Symposium on Foundations of Information and Knowledge Systems, Leibniz University Hannover <code>&#8212;</code> <i>Complexity Results in Team Semantics: Nonemptiness Is Not So Complex</i> </li>
  <li> 2025.12.10: University of Helsinki logic seminar <code>&#8212;</code> <i>Another Logic Complete for Convex ESO-Definable Team Properties</i> </li>
  <li> 2025.10.29: University of Helsinki logic seminar <code>&#8212;</code> <i>Bicompleteness Theorems for Team Logics with the Dual Negation</i> </li>
  <li> 2025.09.08: TbiLLC 2025: Fifteenth International Tbilisi Symposium on Logic, Language and Computation <code>&#8212;</code> <i>A Deep-Inference Sequent Calculus for a Propositional Team Logic</i> </li>
@@ -75,6 +76,16 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
 
 <details>
  <summary>Teaching & Supervision</summary>
+<h3 id="ta" >Courses</h3>
+ <ul >
+<li> 2026: Team Semantics: Linguistic and Philosophical Applications (ESSLLI 2026, Charles UNiversity; co-taught with Marco Degano) </li>
+ </ul>
+<h3 id="ta" >Supervision</h3>
+ <ul >
+<li> 2025: MSc Thesis, University of Amsterdam: Lorenz Hornung, <a href="https://eprints.illc.uva.nl/id/eprint/2371/">Reasoning About Legal Concepts with Propositional Dependence Logic</a></li>
+<li> 2024: Master of Logic individual project in Dependence Logic, University of Amsterdam</li>
+<li> 2022: MSc Thesis, University of Helsinki: <a href="https://sites.google.com/view/matildahaggblom/">Matilda Häggblom</a>, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949">Axiomatizing Modal Inclusion Logic</a></li>
+ </ul>
 <h3 id="ta" >Teaching assistant</h3>
  <ul>
 <li> 2024: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118737">Axiomatic Set Theory</a> (University of Amsterdam; main instructor: Franziska Jahnke)</li>
@@ -83,10 +94,4 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
 <li> 2021: <a href="https://studies.helsinki.fi/courses/course-unit/otm-d9733070-f2eb-4797-92a7-4001fcf0fa97/MAT21002">Series</a> (University of Helsinki; main instructor: Mika Koskenoja)</li>
 <li> 2020: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/114730">Introduction to the Philosophy of Language</a> (University of Amsterdam; main instructor: Elsbeth Brouwer)</li>
 </ul> 
-<h3 id="ta" >Supervision</h3>
- <ul >
-<li> 2025: MSc Thesis, University of Amsterdam: Lorenz Hornung, <a href="https://eprints.illc.uva.nl/id/eprint/2371/">Reasoning About Legal Concepts with Propositional Dependence Logic</a></li>
-<li> 2024: Master of Logic individual project in Dependence Logic, University of Amsterdam</li>
-<li> 2022: MSc Thesis, University of Helsinki: <a href="https://sites.google.com/view/matildahaggblom/">Matilda Häggblom</a>, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949">Axiomatizing Modal Inclusion Logic</a></li>
- </ul>
 </details>
