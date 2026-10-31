@@ -63,14 +63,14 @@ logic](https://plato.stanford.edu/entries/logic-dependence/) and [inquisitive lo
  <ul> 
 <li> 2023-2025: PhD in Logic, ILLC, University of Amsterdam <br>
 (Transferred from University of Helsinki, where I was 2021-2023.)<br>
-Thesis: <a href="https://hdl.handle.net/11245.1/2fe80942-29ff-41a8-a584-3b6545d1fbd7">Not Nothing: Nonemptiness in Team Semantics</a><br>(<i>de facto</i> supervisors: Fan Yang and Maria Aloni; other official supervisors: Robert van Rooij and Jouko Väänänen)</li>
+Thesis: <a href="https://hdl.handle.net/11245.1/2fe80942-29ff-41a8-a584-3b6545d1fbd7"><i>Not Nothing: Nonemptiness in Team Semantics</i></a><br>(<i>de facto</i> supervisors: Fan Yang and Maria Aloni; other official supervisors: Robert van Rooij and Jouko Väänänen)</li>
 <li> 2018-2021: MSc in Logic, ILLC, University of Amsterdam <br>
-Thesis: <a href="https://msclogic.illc.uva.nl/theses/archive/publication/4941/The-Logic-of-Free-Choice-Axiomatizations-of-State-based-Modal-Logics">The Logic of Free Choice — Axiomatizations of State-Based Modal Logics</a><br>(supervisors: Maria Aloni and Fan Yang)</li>
+Thesis: <a href="https://msclogic.illc.uva.nl/theses/archive/publication/4941/The-Logic-of-Free-Choice-Axiomatizations-of-State-based-Modal-Logics"><i>The Logic of Free Choice — Axiomatizations of State-Based Modal Logics</i></a><br>(supervisors: Maria Aloni and Fan Yang)</li>
 <li> 2017-2018: MSc in Computer Science, University College London <br>
-Final Project: A Theorem Prover for Full Computation Tree Logic (CTL<sup>∗</sup>)<br>(supervisor: Robin Hirsch)</li>
+Final Project: <i>A Theorem Prover for Full Computation Tree Logic (CTL<sup>∗</sup>)</i><br>(supervisor: Robin Hirsch)</li>
 <li> 2013-2015: Studied for MSc in Mathematics and Foundations of Computer Science, University of Oxford. Dropped out due to <a href="https://en.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome">ME/CFS</a> (I have since recovered).</li>
 <li> 2009-2013: MA (Hons) in Mathematics and Philosophy, University of St Andrews <br>
-Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<br>(supervisor: James Mitchell)</li>
+Undergraduate Maths Project: <i>The Axiom of Choice and Product Spaces in Topology</i><br>(supervisor: James Mitchell)</li>
  </ul>
 </details>
 
@@ -78,20 +78,20 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
  <summary>Teaching & Supervision</summary>
 <h3 id="ta" >Courses</h3>
  <ul >
-<li> 2026: Team Semantics: Linguistic and Philosophical Applications (ESSLLI 2026, Charles University; co-taught with Marco Degano) </li>
+<li> 2026: <i>Team Semantics: Linguistic and Philosophical Applications</i> (ESSLLI 2026, Charles University; co-taught with Marco Degano) </li>
  </ul>
 <h3 id="ta" >Supervision</h3>
  <ul >
-<li> 2025: MSc Thesis, University of Amsterdam: Lorenz Hornung, <a href="https://eprints.illc.uva.nl/id/eprint/2371/">Reasoning About Legal Concepts with Propositional Dependence Logic</a></li>
+<li> 2025: MSc Thesis, University of Amsterdam: Lorenz Hornung, <a href="https://eprints.illc.uva.nl/id/eprint/2371/"><i>Reasoning About Legal Concepts with Propositional Dependence Logic</i></a></li>
 <li> 2024: Master of Logic individual project in Dependence Logic, University of Amsterdam</li>
-<li> 2022: MSc Thesis, University of Helsinki: <a href="https://sites.google.com/view/matildahaggblom/">Matilda Häggblom</a>, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949">Axiomatizing Modal Inclusion Logic</a></li>
+<li> 2022: MSc Thesis, University of Helsinki: <a href="https://sites.google.com/view/matildahaggblom/">Matilda Häggblom</a>, <a href="https://helda.helsinki.fi/items/89688789-0073-4191-8777-98542f128949"><i>Axiomatizing Modal Inclusion Logic</i></a></li>
  </ul>
 <h3 id="ta" >Teaching assistant</h3>
  <ul>
-<li> 2024: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118737">Axiomatic Set Theory</a> (University of Amsterdam; main instructor: Franziska Jahnke)</li>
-<li> 2022: <a href="https://studies.helsinki.fi/courses/course-unit/otm-b46220b1-179e-4ab7-8752-c702e57c29c4">Finite Model Theory</a> (University of Helsinki; main instructor: Juha Kontinen)</li>
-<li> 2021: <a href="https://studies.helsinki.fi/courses/course-unit/hy-CU-117629832-2020-08-01?cpId=hy-lv-71">Dependence Logic</a> (University of Helsinki; main instructor: Fan Yang)</li>
-<li> 2021: <a href="https://studies.helsinki.fi/courses/course-unit/otm-d9733070-f2eb-4797-92a7-4001fcf0fa97/MAT21002">Series</a> (University of Helsinki; main instructor: Mika Koskenoja)</li>
-<li> 2020: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/114730">Introduction to the Philosophy of Language</a> (University of Amsterdam; main instructor: Elsbeth Brouwer)</li>
+<li> 2024: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118737"><i>Axiomatic Set Theory</i></a> (University of Amsterdam; main instructor: Franziska Jahnke)</li>
+<li> 2022: <a href="https://studies.helsinki.fi/courses/course-unit/otm-b46220b1-179e-4ab7-8752-c702e57c29c4"><i>Finite Model Theory</i></a> (University of Helsinki; main instructor: Juha Kontinen)</li>
+<li> 2021: <a href="https://studies.helsinki.fi/courses/course-unit/hy-CU-117629832-2020-08-01?cpId=hy-lv-71"><i>Dependence Logic</i></a> (University of Helsinki; main instructor: Fan Yang)</li>
+<li> 2021: <a href="https://studies.helsinki.fi/courses/course-unit/otm-d9733070-f2eb-4797-92a7-4001fcf0fa97/MAT21002"><i>Series</i></a> (University of Helsinki; main instructor: Mika Koskenoja)</li>
+<li> 2020: <a href="https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/114730"><i>Introduction to the Philosophy of Language</i></a> (University of Amsterdam; main instructor: Elsbeth Brouwer)</li>
 </ul> 
 </details>
