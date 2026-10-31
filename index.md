@@ -78,7 +78,7 @@ Undergraduate Maths Project: The Axiom of Choice and Product Spaces in Topology<
  <summary>Teaching & Supervision</summary>
 <h3 id="ta" >Courses</h3>
  <ul >
-<li> 2026: Team Semantics: Linguistic and Philosophical Applications (ESSLLI 2026, Charles UNiversity; co-taught with Marco Degano) </li>
+<li> 2026: Team Semantics: Linguistic and Philosophical Applications (ESSLLI 2026, Charles University; co-taught with Marco Degano) </li>
  </ul>
 <h3 id="ta" >Supervision</h3>
  <ul >
